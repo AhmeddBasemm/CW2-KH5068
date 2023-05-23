@@ -37,22 +37,3 @@ This will start the program, which will create 10 threads and increment the glob
 
 After the program finishes, it will print the final value of the counter variable.
 
-## Modifying the Program
-
-To modify the program, you can change the number of threads or the number of times the counter variable is incremented.
-
-You can also experiment withdifferent synchronization primitives, such as semaphores or condition variables, tomanage thread concurrency and prevent race conditions.
-
-## Troubleshooting
-
-If you encounter any errors or issues while compiling or running the program, please check that you have the required dependencies installed and that your system supports Pthreads.
-
-If you still encounter issues, please feel free to contact the developer or consult online resources for help.
-
-## License
-
-This program is released under the MIT License. Please see the LICENSE file for details.
-
-## Credits
-
-This program was written by [Your Name] as a sample multi-threaded C program with mutex locks.
